@@ -1,6 +1,9 @@
 # Deno weather project
 
   - An simple deno project.
+  
+## Dependencies
+  - [Deno](https://deno.land/)
 
 ## Run project
 
